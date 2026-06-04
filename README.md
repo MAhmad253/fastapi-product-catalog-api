@@ -139,10 +139,3 @@ POST /products/
 Muhammad Ahmad
 Software Engineering Student | COMSATS University
 Backend & AI Enthusiast
-
-```
-
----
-
-If you want next step, I can also make your GitHub repo look **professional like internship-level (badges + banner + screenshots + Docker + CI/CD)** 🚀
-```
